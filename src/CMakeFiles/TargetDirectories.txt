@@ -1,0 +1,17 @@
+/workspaces/cs1410-practice/src/CMakeFiles/main.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0101.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0102.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0201.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0202.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0203.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0301.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0302.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0401.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0402.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0501.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0502.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0601.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0602.dir
+/workspaces/cs1410-practice/src/CMakeFiles/ex0603.dir
+/workspaces/cs1410-practice/src/CMakeFiles/edit_cache.dir
+/workspaces/cs1410-practice/src/CMakeFiles/rebuild_cache.dir
